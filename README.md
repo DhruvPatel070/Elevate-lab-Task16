@@ -1,18 +1,7 @@
 # Elevate-lab-Task16
 
-# Incident Response Documentation  
-## Task 16 Submission  
-
+# Incident Response Documentation 
 ---
-
-## Submitted By  
-
-**Name:** Patel Dhruv Nirmalkumar  
-**Email:** dhruvpatel.00700@gmail.com  
-**Phone:** 9426176903  
-
----
-
 # Incident Response Report  
 
 ---
