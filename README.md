@@ -1,6 +1,5 @@
 # Elevate-lab-Task16
 
-# Incident Response Documentation 
 ---
 # Incident Response Report  
 
